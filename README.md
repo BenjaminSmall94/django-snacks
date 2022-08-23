@@ -8,6 +8,8 @@
 
 ## How to run application
 
-
+From the django_snacks folder, run the `python manage.py runserver` command in the terminal. Then access the localHost link that is printed out during the boot up procedure in the terminal.
 
 ## Tests
+
+From the django_snacks folder, run the `python manage.py test` command in the terminal.
